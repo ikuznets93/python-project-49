@@ -3,7 +3,7 @@ import random
 
 def progression_game():
     element_of_progression = random.randint(1, 100)
-    step_of_progression = random.randint(-10, 10)
+    step_of_progression = random.randint(1, 10)
     length_of_progression = 10
     position_of_unknown = random.randint(0, length_of_progression - 1)
 
