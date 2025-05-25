@@ -11,6 +11,14 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ikuznets93_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ikuznets93_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ikuznets93_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ikuznets93_python-project-49)
 
+### Links
+This project was built using these tools:
+
+|   Tool   |                       Description                                           |
+|:--------:|:-------------|
+| Row 1    | "An extremely fast Python package and project manager, written in Rust"     |
+| Row 2    | "An extremely fast Python linter and code formatter, written in Rust"       |
+
 ### Installation
 Demonstration:
 [![asciicast](https://asciinema.org/a/720780.svg)](https://asciinema.org/a/720780)
