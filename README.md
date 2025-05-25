@@ -11,6 +11,26 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ikuznets93_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ikuznets93_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ikuznets93_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ikuznets93_python-project-49)
 
+### Installation
+Demonstration:
+[![asciicast](https://asciinema.org/a/720780.svg)](https://asciinema.org/a/720780)
+
 ### Brain-even
 Demonstration:
-[![asciicast](https://asciinema.org/a/SS4R93SKGWbQiZRCzjWkij3fV.svg)](https://asciinema.org/a/SS4R93SKGWbQiZRCzjWkij3fV)
+[![asciicast](https://asciinema.org/a/719566.svg)](https://asciinema.org/a/719566)
+
+### Brain-calc
+Demonstration:
+[![asciicast](https://asciinema.org/a/720772.svg)](https://asciinema.org/a/720772)
+
+### Brain-gcd
+Demonstration:
+[![asciicast](https://asciinema.org/a/720773.svg)](https://asciinema.org/a/720773)
+
+### Brain-progression
+Demonstration:
+[![asciicast](https://asciinema.org/a/720774.svg)](https://asciinema.org/a/720774)
+
+### Brain-prime
+Demonstration:
+[![asciicast](https://asciinema.org/a/720775.svg)](https://asciinema.org/a/720775)
