@@ -11,8 +11,6 @@ def main():
         question, answer = calc_game()
         common.ask_question(question)
         user_answer = common.get_user_answer()
-        print(type(answer))
-        print(type(user_answer))
         is_correct_answer = common.is_correct(answer, user_answer)
         common.correctness_message(answer, user_answer, is_correct_answer)
         if is_correct_answer is False:
