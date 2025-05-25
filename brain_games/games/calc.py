@@ -3,8 +3,8 @@ import random
 
 
 def calc_game():
-    first_number = random.randint(1, 100)
-    second_number = random.randint(1, 100)
+    first_number = random.randint(1, 10)
+    second_number = random.randint(1, 10)
     operator_list = ('+', '-', '*')
     random_operator = random.choice(operator_list)
     question = f'{first_number}{random_operator}{second_number}'
