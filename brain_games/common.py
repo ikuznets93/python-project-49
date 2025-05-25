@@ -14,7 +14,7 @@ def ask_question(question):
 
 
 def get_user_answer():
-    return prompt.string('Your answer:')
+    return prompt.string('Your answer: ')
 
 
 def is_correct(answer, user_answer):

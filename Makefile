@@ -1,6 +1,15 @@
 install:
 	uv sync
 
+build:
+	uv build
+
+package-install:
+	uv tool install dist/*.whl
+
+lint:
+	uv run ruff check brain_games
+
 brain-games:
 	uv run brain-games
 
@@ -10,11 +19,11 @@ brain-even:
 brain-calc:
 	uv run brain-calc
 
-build:
-	uv build
+brain-gcd:
+	uv run brain-gcd
 
-package-install:
-	uv tool install dist/*.whl
+brain-progression:
+	uv run brain-progression
 
-lint:
-	uv run ruff check brain_games
+brain-prime:
+	uv run brain-prime

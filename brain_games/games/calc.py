@@ -2,7 +2,7 @@ import operator
 import random
 
 
-def game():
+def calc_game():
     first_number = random.randint(1, 100)
     second_number = random.randint(1, 100)
     operator_list = ('+', '-', '*')

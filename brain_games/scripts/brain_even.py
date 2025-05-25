@@ -1,5 +1,5 @@
 import brain_games.common as common
-from brain_games.games.even import game
+from brain_games.games.even import even_game
 
 
 def main():
@@ -8,7 +8,7 @@ def main():
         
     name = common.welcome_user(rules)
     for _ in range(num_of_games):
-        question, answer = game()
+        question, answer = even_game()
         common.ask_question(question)
         user_answer = common.get_user_answer()
         is_correct_answer = common.is_correct(answer, user_answer)
