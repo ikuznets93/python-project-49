@@ -3,7 +3,7 @@ from brain_games.games.gcd import gcd_game
 
 
 def main():
-    rules = 'Find the greatest engine divisor of given numbers.'
+    rules = 'Find the greatest common divisor of given numbers.'
     num_of_games = 3
         
     name = engine.welcome_user(rules)
